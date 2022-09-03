@@ -1,0 +1,24 @@
+.modall {
+    width: 350px;
+    height: 260px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 2%;
+    box-shadow: 4px 7px 20px 1px;
+}
+hr {
+    background-color: black;
+    opacity: 1!important;
+  
+    
+}
+.myh4 {
+    text-align: center;
+}
+.myp {
+    text-align: center;
+} 
+.backblar {
+    background-color: #99958e;;
+} 
